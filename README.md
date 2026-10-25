@@ -29,8 +29,39 @@ plt.ylabel('Average Car Price')
 plt.legend()
 plt.grid(True)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # OUTPUT:
 <img width="971" height="543" alt="ex1(a) output" src="https://github.com/user-attachments/assets/96d24910-9319-461e-a5a3-9f6de27fac9d" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img width="908" height="596" alt="ex1(a) output(graph)" src="https://github.com/user-attachments/assets/1014902a-a8bd-4177-b53f-5876909329df" />
 
